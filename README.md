@@ -2,6 +2,7 @@
 
 Projeto integrador desenvolvido em Java para gerenciamento de contatos telefônicos com persistência em banco de dados MySQL (via XAMPP).
 
+VIDEO AQUI >>> https://drive.google.com/file/d/1JFSeRPoSUgHVS6hS8a9I1jq-BkH432BX/view?usp=sharing  <<<
 ## 🧩 Funcionalidades (CRUD)
 
 - ✅ **Criar** contato
